@@ -1,0 +1,2 @@
+Input("age = 20")
+Print(age)
